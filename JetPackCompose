@@ -1,3 +1,13 @@
 //JetPackCompose
   //It doesnt contain layout files
   //It will have ui && business logic together in the activity
+  
+//Preview
+  //Code
+  /*
+  @Preview(showBackground = true)
+  @Composable
+  fun DefaultPreview() {
+      Greeting("Android")
+  }
+  */
