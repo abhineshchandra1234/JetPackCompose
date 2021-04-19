@@ -3,6 +3,7 @@
   //It will have ui && business logic together in the activity
   
 //Preview
+  you can use below code to see sample layout inside studio
   //Code
   /*
   @Preview(showBackground = true)
