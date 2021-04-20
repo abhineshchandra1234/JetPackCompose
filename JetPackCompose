@@ -23,4 +23,6 @@
   */  
   //Atrributes
     //horizontalAlignment = Alignment.CenterHorizontally
-    //it will center view in cross axis
+      //it will center view in cross axis
+    //verticalArrangement = Arrangement.SpaceBetween
+      //it will align view in main axis, here there will be space between views
