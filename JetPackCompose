@@ -26,3 +26,10 @@
       //it will center view in cross axis
     //verticalArrangement = Arrangement.SpaceBetween
       //it will align view in main axis, here there will be space between views
+      
+//modifier
+//Code
+  /*modifier = Modifier
+                    .width(200.dp) // it will set width
+                    .fillMaxHeight(0.7f) // it will set height in percentage of screen
+                    .background(Color.Green) // it will set background color     */ 
