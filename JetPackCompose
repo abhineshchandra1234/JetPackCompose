@@ -28,6 +28,7 @@
       //it will align view in main axis, here there will be space between views
       
 //modifier
+//it is used to give certain attributes to views
 //Code
   /*modifier = Modifier
                     .width(200.dp) // it will set width
