@@ -20,4 +20,7 @@
                 Text("Hello")
                 Text("World")
             }
-  */           
+  */  
+  //Atrributes
+    //horizontalAlignment = Alignment.CenterHorizontally
+    //it will center view in cross axis
