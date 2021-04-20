@@ -12,3 +12,12 @@
       Greeting("Android")
   }
   */
+
+//Column
+  //it is used to display views in columns
+  /*
+  Column() {
+                Text("Hello")
+                Text("World")
+            }
+  */           
